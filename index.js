@@ -5,6 +5,6 @@ function testFunc() {
 }
 
 function superbowlWin(record){
-  record.find(r => (result === 'W'))
+  record.find(r => (r === 'W'))
 }
 
