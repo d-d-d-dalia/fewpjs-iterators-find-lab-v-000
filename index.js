@@ -5,6 +5,6 @@ function testFunc() {
 }
 
 function superbowlWin(record){
-  record.find(r => console.log(r)))
+  record.find(r => console.log(r))
 }
 
